@@ -17,8 +17,8 @@ function App() {
       <div>
         <h1>Счетчик</h1>
         <h2>{counter}</h2>
-        <button onClick={decerment}>- Минус</button>
-        <button onClick={incerment}>Плюс +</button>
+        <button onClick={decerment} className="minus">- Минус</button>
+        <button onClick={incerment} className="plus">Плюс +</button>
       </div>
     </div>
   );
