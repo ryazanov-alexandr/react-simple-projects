@@ -19,7 +19,7 @@ function App() {
         ✨ Открыть окно
       </button>
       <Modal open={open} closeModal={closeModal}>
-        <img src="https://media2.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" />
+        <img src="https://media.giphy.com/media/xT77XZrTKOxycjaYvK/giphy.gif?cid=790b76111fuvay81cmbpg0i9ecrqhy24qy4kq4lzye7ogo3l&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
       </Modal>
     </div>
   );
